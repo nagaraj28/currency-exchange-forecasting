@@ -1,9 +1,12 @@
 import './App.css';
+import Home from './home/home';
+import NavBar from './navbar/nav-bar';
 
 function App() {
   return (
     <div className="App">
-      Wokring
+      <NavBar/>
+      <Home/>
     </div>
   );
 }

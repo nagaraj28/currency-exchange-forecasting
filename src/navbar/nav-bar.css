@@ -1,0 +1,11 @@
+
+.header,.nav-bar,.head-tag{
+    margin: 0;
+    padding: 0;
+
+}.head-tag{
+    background-color:#075985;
+    text-align: center;
+    padding: 2rem;
+    color: #f8fafc;
+}
