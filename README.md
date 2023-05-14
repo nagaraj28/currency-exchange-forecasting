@@ -1,4 +1,4 @@
-**Currency Exchange Forecasting For Asian Countries**
+**Currency Exchange Forecasting For Asian Countires**
 
 
 **Utilized Cloud Technologies:**
