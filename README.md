@@ -1,4 +1,4 @@
-                                                                                                         **Currency Forecasting**
+**Currency Forecasting**
 
 
 **Utilized Cloud Technologies:**
